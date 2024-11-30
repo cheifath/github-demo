@@ -1,4 +1,4 @@
 # github-demo
 Learning Github
 <br>
-Author: Cheifath
+Author: Cheifath (Student)
